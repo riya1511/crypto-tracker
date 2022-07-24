@@ -9,7 +9,7 @@ A crypto currency tracker app which shows symbol, price, price change and price 
 ## How to run the Project
 
 The project is live on the web and the link is:
-https://medical-team-pager.netlify.app/
+https://62dcefdee68cdc27d788a8b4--clinquant-kitsune-6e9cd0.netlify.app/
 
 ## How it works
 
